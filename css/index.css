@@ -1,0 +1,173 @@
+@charset "utf-8";
+        
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center; 
+        flex-direction: column; 
+        min-height: 120vh;
+        margin: 0;
+    } 
+    
+    html, body {
+        height: 100%; 
+        margin: 0; 
+    }
+    
+    .index{
+        background-image: url('/imagens/1_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .anotações{
+        background-image: url('/imagens/2_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .estudo{
+        background-image: url('/imagens/3_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .fisiologiahumana {
+        background-image: url('/imagens/4_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .dependencia{
+        background-image: url('/imagens/5_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .fisiologiaanimal {
+        background-image: url('/imagens/6_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .dependencia-fisiologiaanimal {
+        background-image: url('/imagens/7_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .metodoscontraceptivos {
+        background-image: url('/imagens/8_1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .citologiagenetica-ecologia {
+        background-image: url('/imagens/9.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+
+    .imagens {
+        display: flex;
+        flex-direction: column;   
+        gap: 10px;                
+        align-items: center;  
+    }
+
+    table {
+        margin: auto;
+        margin-top: 10px;
+        margin-left: 120px;
+        margin-right: 120px;
+
+    }
+
+
+    td {
+        display: table-cell;
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    img {
+    display: block;
+    margin: 0 auto;   
+    max-width: 100%; 
+    height: auto;
+    
+    }
+
+    .v {
+        width: 450px;
+        height: 250px;
+    }
+    
+    ul {
+        margin-left: 30px;
+        font-size: 14.3px;
+    }
+
+    ol {
+        margin-left: 30px;
+        font-size: 14.3px;
+    }
+
+    li {
+        font-size: 14px;
+        color: #ffffff;
+    }
+
+    p {
+        font-size: 15px;
+        color: #ffffff;
+    }
+
+    h2 {
+        font-size: 20px;
+        color: #ffffff;
+    }
+
+    h3 {
+        font-size: 18px;
+        color: #ffffff;
+    }
+
+    h4 {
+        font-size: 17px;
+        color: #ffffff;
+    }
+
+    h5 {
+        font-size: 16px;
+        color: #ffffff;
+    }
+
+    video {
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        width: 60%;
+        height: auto;
+    }
+    
+        
