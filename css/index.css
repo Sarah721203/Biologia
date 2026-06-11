@@ -114,6 +114,10 @@
         vertical-align: middle;
     }
 
+    article {
+        margin-top: 20vh;
+    }
+
     img {
     display: block;
     margin: 0 auto;   
