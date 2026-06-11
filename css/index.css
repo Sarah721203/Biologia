@@ -15,7 +15,7 @@
     } 
     
     .index{
-        background-image: url('/Biologia/imagens/1_1.png');
+        background-image: url('../imagens/1_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -24,7 +24,7 @@
     }
 
     .anotações{
-        background-image: url('/Biologia/imagens/2_1.png');
+        background-image: url('../imagens/2_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -33,7 +33,7 @@
     }
 
     .estudo{
-        background-image: url('/Biologia/imagens/3_1.png');
+        background-image: url('../imagens/3_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -42,7 +42,7 @@
     }
 
     .fisiologiahumana {
-        background-image: url('/Biologia/imagens/4_1.png');
+        background-image: url('../imagens/4_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -51,7 +51,7 @@
     }
 
     .dependencia{
-        background-image: url('/Biologia/imagens/5_1.png');
+        background-image: url('../imagens/5_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -60,7 +60,7 @@
     }
 
     .fisiologiaanimal {
-        background-image: url('/Biologia/imagens/6_1.png');
+        background-image: url('../imagens/6_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -69,7 +69,7 @@
     }
 
     .dependencia-fisiologiaanimal {
-        background-image: url('/Biologia/imagens/7_1.png');
+        background-image: url('../imagens/7_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -78,7 +78,7 @@
     }
 
     .metodoscontraceptivos {
-        background-image: url('/Biologia/imagens/8_1.png');
+        background-image: url('../imagens/8_1.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -87,7 +87,7 @@
     }
 
     .citologiagenetica-ecologia {
-        background-image: url('/Biologia/imagens/9.png');
+        background-image: url('../imagens/9.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
