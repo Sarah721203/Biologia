@@ -1,18 +1,18 @@
 @charset "utf-8";
         
+    html, body {
+        height: 100%; 
+        margin: 0;
+    }
+
     body {
         display: flex;
         justify-content: center;
         align-items: center; 
         flex-direction: column; 
-        min-height: 120vh;
+        min-height: 100vh;
         margin: 0;
     } 
-    
-    html, body {
-        height: 100%; 
-        margin: 0; 
-    }
     
     .index{
         background-image: url('/Biologia/imagens/1_1.png');
@@ -20,6 +20,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .anotações{
@@ -28,6 +29,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .estudo{
@@ -36,6 +38,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .fisiologiahumana {
@@ -44,6 +47,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .dependencia{
@@ -52,6 +56,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .fisiologiaanimal {
@@ -60,6 +65,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .dependencia-fisiologiaanimal {
@@ -68,6 +74,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .metodoscontraceptivos {
@@ -76,6 +83,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .citologiagenetica-ecologia {
@@ -84,6 +92,7 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
+        min-height: 100vh;
     }
 
     .imagens {
